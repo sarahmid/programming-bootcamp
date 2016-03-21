@@ -1,0 +1,5 @@
+SeqID	Len	GC
+abc	20	0.5
+absdfs	23	0.7
+asdasd	25	0.6
+asdwr	24	0.5

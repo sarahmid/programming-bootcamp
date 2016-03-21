@@ -1,0 +1,226 @@
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+145	Exp2_CtrlLine_FavTF	NegCtrlRegion	SYBR	Unknown	30.000788						30.186497	30.186497	0.26263085	Automatic Ct		Automatic			Automatic	0.06287207													
+146	Exp2_CtrlLine_FavTF	NegCtrlRegion	SYBR	Unknown	Undetermined						30.186497	30.186497	0.26263085	Automatic Ct		Automatic			Automatic	0.06287207									true				
+147	Exp2_CtrlLine_FavTF	NegCtrlRegion	SYBR	Unknown	30.372204						30.186497	30.186497	0.26263085	Automatic Ct		Automatic			Automatic	0.06287207													
+169	Exp2_CtrlLine_IgG	NegCtrlRegion	SYBR	Unknown	Undetermined									Automatic Ct		Automatic			Automatic	0.06287207						true			true				
+170	Exp2_CtrlLine_IgG	NegCtrlRegion	SYBR	Unknown	Undetermined									Automatic Ct		Automatic			Automatic	0.06287207						true			true				
+171	Exp2_CtrlLine_IgG	NegCtrlRegion	SYBR	Unknown	Undetermined									Automatic Ct		Automatic			Automatic	0.06287207						true			true				
+274	Exp2_CtrlLine_Input_0.008	NegCtrlRegion	SYBR	Unknown	26.708418						26.779558	26.781946	0.07475284	Automatic Ct		Automatic			Automatic	0.06287207													
+275	Exp2_CtrlLine_Input_0.008	NegCtrlRegion	SYBR	Unknown	26.779558						26.779558	26.781946	0.07475284	Automatic Ct		Automatic			Automatic	0.06287207													
+276	Exp2_CtrlLine_Input_0.008	NegCtrlRegion	SYBR	Unknown	26.857866						26.779558	26.781946	0.07475284	Automatic Ct		Automatic			Automatic	0.06287207													
+250	Exp2_CtrlLine_Input_0.040	NegCtrlRegion	SYBR	Unknown	24.639225						24.639225	24.541245	0.20477392	Automatic Ct		Automatic			Automatic	0.06287207													
+251	Exp2_CtrlLine_Input_0.040	NegCtrlRegion	SYBR	Unknown	24.678621						24.639225	24.541245	0.20477392	Automatic Ct		Automatic			Automatic	0.06287207													
+252	Exp2_CtrlLine_Input_0.040	NegCtrlRegion	SYBR	Unknown	24.30589						24.639225	24.541245	0.20477392	Automatic Ct		Automatic			Automatic	0.06287207													
+226	Exp2_CtrlLine_Input_0.200	NegCtrlRegion	SYBR	Unknown	22.22082						22.22082	22.242682	0.056086868	Automatic Ct		Automatic			Automatic	0.06287207													
+227	Exp2_CtrlLine_Input_0.200	NegCtrlRegion	SYBR	Unknown	22.306408						22.22082	22.242682	0.056086868	Automatic Ct		Automatic			Automatic	0.06287207													
+228	Exp2_CtrlLine_Input_0.200	NegCtrlRegion	SYBR	Unknown	22.200819						22.22082	22.242682	0.056086868	Automatic Ct		Automatic			Automatic	0.06287207													
+202	Exp2_CtrlLine_Input_1.000	NegCtrlRegion	SYBR	Unknown	20.601559						20.601559	20.578604	0.0406333	Automatic Ct		Automatic			Automatic	0.06287207													
+203	Exp2_CtrlLine_Input_1.000	NegCtrlRegion	SYBR	Unknown	20.531689						20.601559	20.578604	0.0406333	Automatic Ct		Automatic			Automatic	0.06287207													
+204	Exp2_CtrlLine_Input_1.000	NegCtrlRegion	SYBR	Unknown	20.602566						20.601559	20.578604	0.0406333	Automatic Ct		Automatic			Automatic	0.06287207													
+241	Exp2_LineOfInterest_FavTF	NegCtrlRegion	SYBR	Unknown	31.352087						31.976885	31.976051	0.62354606	Automatic Ct		Automatic			Automatic	0.06287207						true							
+242	Exp2_LineOfInterest_FavTF	NegCtrlRegion	SYBR	Unknown	32.59918						31.976885	31.976051	0.62354606	Automatic Ct		Automatic			Automatic	0.06287207						true							
+243	Exp2_LineOfInterest_FavTF	NegCtrlRegion	SYBR	Unknown	31.976885						31.976885	31.976051	0.62354606	Automatic Ct		Automatic			Automatic	0.06287207						true							
+265	Exp2_LineOfInterest_IgG	NegCtrlRegion	SYBR	Unknown	Undetermined									Automatic Ct		Automatic			Automatic	0.06287207						true			true				
+266	Exp2_LineOfInterest_IgG	NegCtrlRegion	SYBR	Unknown	Undetermined									Automatic Ct		Automatic			Automatic	0.06287207						true			true				
+267	Exp2_LineOfInterest_IgG	NegCtrlRegion	SYBR	Unknown	Undetermined									Automatic Ct		Automatic			Automatic	0.06287207						true			true				
+91	Exp2_LineOfInterest_Input_0.008	NegCtrlRegion	SYBR	Unknown	27.65102						27.671207	27.789877	0.22325489	Automatic Ct		Automatic			Automatic	0.06287207													
+92	Exp2_LineOfInterest_Input_0.008	NegCtrlRegion	SYBR	Unknown	27.671207						27.671207	27.789877	0.22325489	Automatic Ct		Automatic			Automatic	0.06287207													
+93	Exp2_LineOfInterest_Input_0.008	NegCtrlRegion	SYBR	Unknown	28.047407						27.671207	27.789877	0.22325489	Automatic Ct		Automatic			Automatic	0.06287207													
+67	Exp2_LineOfInterest_Input_0.040	NegCtrlRegion	SYBR	Unknown	25.600725						25.600725	25.563826	0.21651119	Automatic Ct		Automatic			Automatic	0.06287207													
+68	Exp2_LineOfInterest_Input_0.040	NegCtrlRegion	SYBR	Unknown	25.331236						25.600725	25.563826	0.21651119	Automatic Ct		Automatic			Automatic	0.06287207													
+69	Exp2_LineOfInterest_Input_0.040	NegCtrlRegion	SYBR	Unknown	25.759516						25.600725	25.563826	0.21651119	Automatic Ct		Automatic			Automatic	0.06287207													
+43	Exp2_LineOfInterest_Input_0.200	NegCtrlRegion	SYBR	Unknown	23.027555						23.027555	23.006163	0.21647452	Automatic Ct		Automatic			Automatic	0.06287207													
+44	Exp2_LineOfInterest_Input_0.200	NegCtrlRegion	SYBR	Unknown	22.779783						23.027555	23.006163	0.21647452	Automatic Ct		Automatic			Automatic	0.06287207													
+45	Exp2_LineOfInterest_Input_0.200	NegCtrlRegion	SYBR	Unknown	23.211143						23.027555	23.006163	0.21647452	Automatic Ct		Automatic			Automatic	0.06287207													
+19	Exp2_LineOfInterest_Input_1.000	NegCtrlRegion	SYBR	Unknown	21.51538						21.429338	21.398462	0.1350286	Automatic Ct		Automatic			Automatic	0.06287207													
+20	Exp2_LineOfInterest_Input_1.000	NegCtrlRegion	SYBR	Unknown	21.250671						21.429338	21.398462	0.1350286	Automatic Ct		Automatic			Automatic	0.06287207													
+21	Exp2_LineOfInterest_Input_1.000	NegCtrlRegion	SYBR	Unknown	21.429338						21.429338	21.398462	0.1350286	Automatic Ct		Automatic			Automatic	0.06287207													
+1	Exp1_CtrlLine_FavTF	NegCtrlRegion	SYBR	Unknown	20.863848						23.203138	22.515106	1.4366376	Automatic Ct		Automatic			Automatic	0.06287207													
+2	Exp1_CtrlLine_FavTF	NegCtrlRegion	SYBR	Unknown	23.478336						23.203138	22.515106	1.4366376	Automatic Ct		Automatic			Automatic	0.06287207													
+3	Exp1_CtrlLine_FavTF	NegCtrlRegion	SYBR	Unknown	23.203138						23.203138	22.515106	1.4366376	Automatic Ct		Automatic			Automatic	0.06287207													
+25	Exp1_CtrlLine_IgG	NegCtrlRegion	SYBR	Unknown	24.145237						24.145237	24.24122	0.28517908	Automatic Ct		Automatic			Automatic	0.06287207													
+26	Exp1_CtrlLine_IgG	NegCtrlRegion	SYBR	Unknown	24.016417						24.145237	24.24122	0.28517908	Automatic Ct		Automatic			Automatic	0.06287207													
+27	Exp1_CtrlLine_IgG	NegCtrlRegion	SYBR	Unknown	24.562008						24.145237	24.24122	0.28517908	Automatic Ct		Automatic			Automatic	0.06287207													
+361	Exp1_CtrlLine_Input_0.008	NegCtrlRegion	SYBR	Unknown	24.910206						24.968023	24.961767	0.048736285	Automatic Ct		Automatic			Automatic	0.06287207													
+362	Exp1_CtrlLine_Input_0.008	NegCtrlRegion	SYBR	Unknown	25.007074						24.968023	24.961767	0.048736285	Automatic Ct		Automatic			Automatic	0.06287207													
+363	Exp1_CtrlLine_Input_0.008	NegCtrlRegion	SYBR	Unknown	24.968023						24.968023	24.961767	0.048736285	Automatic Ct		Automatic			Automatic	0.06287207													
+337	Exp1_CtrlLine_Input_0.040	NegCtrlRegion	SYBR	Unknown	22.73165						22.648388	22.657166	0.07050694	Automatic Ct		Automatic			Automatic	0.06287207													
+338	Exp1_CtrlLine_Input_0.040	NegCtrlRegion	SYBR	Unknown	22.648388						22.648388	22.657166	0.07050694	Automatic Ct		Automatic			Automatic	0.06287207													
+339	Exp1_CtrlLine_Input_0.040	NegCtrlRegion	SYBR	Unknown	22.591457						22.648388	22.657166	0.07050694	Automatic Ct		Automatic			Automatic	0.06287207													
+313	Exp1_CtrlLine_Input_0.200	NegCtrlRegion	SYBR	Unknown	20.446365						20.446365	20.420626	0.29221237	Automatic Ct		Automatic			Automatic	0.06287207													
+314	Exp1_CtrlLine_Input_0.200	NegCtrlRegion	SYBR	Unknown	20.116394						20.446365	20.420626	0.29221237	Automatic Ct		Automatic			Automatic	0.06287207													
+315	Exp1_CtrlLine_Input_0.200	NegCtrlRegion	SYBR	Unknown	20.699116						20.446365	20.420626	0.29221237	Automatic Ct		Automatic			Automatic	0.06287207													
+289	Exp1_CtrlLine_Input_1.000	NegCtrlRegion	SYBR	Unknown	18.88809						19.240948	19.159828	0.24161531	Automatic Ct		Automatic			Automatic	0.06287207													
+290	Exp1_CtrlLine_Input_1.000	NegCtrlRegion	SYBR	Unknown	19.350443						19.240948	19.159828	0.24161531	Automatic Ct		Automatic			Automatic	0.06287207													
+291	Exp1_CtrlLine_Input_1.000	NegCtrlRegion	SYBR	Unknown	19.240948						19.240948	19.159828	0.24161531	Automatic Ct		Automatic			Automatic	0.06287207													
+97	Exp1_LineOfInterest_FavTF	NegCtrlRegion	SYBR	Unknown	24.967562						24.859432	24.847395	0.12661628	Automatic Ct		Automatic			Automatic	0.06287207													
+98	Exp1_LineOfInterest_FavTF	NegCtrlRegion	SYBR	Unknown	24.859432						24.859432	24.847395	0.12661628	Automatic Ct		Automatic			Automatic	0.06287207													
+99	Exp1_LineOfInterest_FavTF	NegCtrlRegion	SYBR	Unknown	24.715189						24.859432	24.847395	0.12661628	Automatic Ct		Automatic			Automatic	0.06287207													
+121	Exp1_LineOfInterest_IgG	NegCtrlRegion	SYBR	Unknown	26.234568						26.234568	26.284174	0.18249619	Automatic Ct		Automatic			Automatic	0.06287207													
+122	Exp1_LineOfInterest_IgG	NegCtrlRegion	SYBR	Unknown	26.486347						26.234568	26.284174	0.18249619	Automatic Ct		Automatic			Automatic	0.06287207													
+123	Exp1_LineOfInterest_IgG	NegCtrlRegion	SYBR	Unknown	26.131613						26.234568	26.284174	0.18249619	Automatic Ct		Automatic			Automatic	0.06287207													
+178	Exp1_LineOfInterest_Input_0.008	NegCtrlRegion	SYBR	Unknown	26.18123						26.18123	26.193632	0.24177952	Automatic Ct		Automatic			Automatic	0.06287207													
+179	Exp1_LineOfInterest_Input_0.008	NegCtrlRegion	SYBR	Unknown	25.95829						26.18123	26.193632	0.24177952	Automatic Ct		Automatic			Automatic	0.06287207													
+180	Exp1_LineOfInterest_Input_0.008	NegCtrlRegion	SYBR	Unknown	26.441372						26.18123	26.193632	0.24177952	Automatic Ct		Automatic			Automatic	0.06287207													
+154	Exp1_LineOfInterest_Input_0.040	NegCtrlRegion	SYBR	Unknown	23.758572						23.758572	23.80371	0.09214392	Automatic Ct		Automatic			Automatic	0.06287207													
+155	Exp1_LineOfInterest_Input_0.040	NegCtrlRegion	SYBR	Unknown	23.742844						23.758572	23.80371	0.09214392	Automatic Ct		Automatic			Automatic	0.06287207													
+156	Exp1_LineOfInterest_Input_0.040	NegCtrlRegion	SYBR	Unknown	23.909723						23.758572	23.80371	0.09214392	Automatic Ct		Automatic			Automatic	0.06287207													
+130	Exp1_LineOfInterest_Input_0.200	NegCtrlRegion	SYBR	Unknown	21.433016						21.60758	21.554337	0.105328895	Automatic Ct		Automatic			Automatic	0.06287207													
+131	Exp1_LineOfInterest_Input_0.200	NegCtrlRegion	SYBR	Unknown	21.60758						21.60758	21.554337	0.105328895	Automatic Ct		Automatic			Automatic	0.06287207													
+132	Exp1_LineOfInterest_Input_0.200	NegCtrlRegion	SYBR	Unknown	21.622416						21.60758	21.554337	0.105328895	Automatic Ct		Automatic			Automatic	0.06287207													
+106	Exp1_LineOfInterest_Input_1.000	NegCtrlRegion	SYBR	Unknown	19.304596						19.614971	19.569448	0.24528106	Automatic Ct		Automatic			Automatic	0.06287207													
+107	Exp1_LineOfInterest_Input_1.000	NegCtrlRegion	SYBR	Unknown	19.78878						19.614971	19.569448	0.24528106	Automatic Ct		Automatic			Automatic	0.06287207													
+108	Exp1_LineOfInterest_Input_1.000	NegCtrlRegion	SYBR	Unknown	19.614971						19.614971	19.569448	0.24528106	Automatic Ct		Automatic			Automatic	0.06287207													
+382	Water	NegCtrlRegion	SYBR	Unknown	Undetermined									Automatic Ct		Automatic			Automatic	0.06287207						true			true				
+383	Water	NegCtrlRegion	SYBR	Unknown	Undetermined									Automatic Ct		Automatic			Automatic	0.06287207						true			true				
+384	Water	NegCtrlRegion	SYBR	Unknown	Undetermined									Automatic Ct		Automatic			Automatic	0.06287207						true			true				
+148	Exp2_CtrlLine_FavTF	PosCtrlRegion	SYBR	Unknown	30.04872						30.04872	30.10703	0.21742286	Automatic Ct		Automatic			Automatic	0.035079543													
+149	Exp2_CtrlLine_FavTF	PosCtrlRegion	SYBR	Unknown	29.924707						30.04872	30.10703	0.21742286	Automatic Ct		Automatic			Automatic	0.035079543													
+150	Exp2_CtrlLine_FavTF	PosCtrlRegion	SYBR	Unknown	30.347662						30.04872	30.10703	0.21742286	Automatic Ct		Automatic			Automatic	0.035079543													
+172	Exp2_CtrlLine_IgG	PosCtrlRegion	SYBR	Unknown	35.45042						35.79875	35.79875	0.49261776	Automatic Ct		Automatic			Automatic	0.035079543						true							
+173	Exp2_CtrlLine_IgG	PosCtrlRegion	SYBR	Unknown	Undetermined						35.79875	35.79875	0.49261776	Automatic Ct		Automatic			Automatic	0.035079543						true			true				
+174	Exp2_CtrlLine_IgG	PosCtrlRegion	SYBR	Unknown	36.147087						35.79875	35.79875	0.49261776	Automatic Ct		Automatic			Automatic	0.035079543						true							
+277	Exp2_CtrlLine_Input_0.008	PosCtrlRegion	SYBR	Unknown	32.48982						32.48982	31.823828	1.2611074	Automatic Ct		Automatic			Automatic	0.035079543													
+278	Exp2_CtrlLine_Input_0.008	PosCtrlRegion	SYBR	Unknown	30.369343						32.48982	31.823828	1.2611074	Automatic Ct		Automatic			Automatic	0.035079543													
+279	Exp2_CtrlLine_Input_0.008	PosCtrlRegion	SYBR	Unknown	32.612316						32.48982	31.823828	1.2611074	Automatic Ct		Automatic			Automatic	0.035079543													
+253	Exp2_CtrlLine_Input_0.040	PosCtrlRegion	SYBR	Unknown	28.986187						28.967234	28.92073	0.09741956	Automatic Ct		Automatic			Automatic	0.035079543													
+254	Exp2_CtrlLine_Input_0.040	PosCtrlRegion	SYBR	Unknown	28.967234						28.967234	28.92073	0.09741956	Automatic Ct		Automatic			Automatic	0.035079543													
+255	Exp2_CtrlLine_Input_0.040	PosCtrlRegion	SYBR	Unknown	28.808775						28.967234	28.92073	0.09741956	Automatic Ct		Automatic			Automatic	0.035079543													
+229	Exp2_CtrlLine_Input_0.200	PosCtrlRegion	SYBR	Unknown	25.895906						26.255726	26.232523	0.3256375	Automatic Ct		Automatic			Automatic	0.035079543													
+230	Exp2_CtrlLine_Input_0.200	PosCtrlRegion	SYBR	Unknown	26.255726						26.255726	26.232523	0.3256375	Automatic Ct		Automatic			Automatic	0.035079543													
+231	Exp2_CtrlLine_Input_0.200	PosCtrlRegion	SYBR	Unknown	26.54594						26.255726	26.232523	0.3256375	Automatic Ct		Automatic			Automatic	0.035079543													
+205	Exp2_CtrlLine_Input_1.000	PosCtrlRegion	SYBR	Unknown	23.90077						23.90077	23.972008	0.12604587	Automatic Ct		Automatic			Automatic	0.035079543													
+206	Exp2_CtrlLine_Input_1.000	PosCtrlRegion	SYBR	Unknown	24.117542						23.90077	23.972008	0.12604587	Automatic Ct		Automatic			Automatic	0.035079543													
+207	Exp2_CtrlLine_Input_1.000	PosCtrlRegion	SYBR	Unknown	23.89771						23.90077	23.972008	0.12604587	Automatic Ct		Automatic			Automatic	0.035079543													
+244	Exp2_LineOfInterest_FavTF	PosCtrlRegion	SYBR	Unknown	29.04465						29.04465	29.077574	0.20335919	Automatic Ct		Automatic			Automatic	0.035079543													
+245	Exp2_LineOfInterest_FavTF	PosCtrlRegion	SYBR	Unknown	29.295387						29.04465	29.077574	0.20335919	Automatic Ct		Automatic			Automatic	0.035079543													
+246	Exp2_LineOfInterest_FavTF	PosCtrlRegion	SYBR	Unknown	28.892687						29.04465	29.077574	0.20335919	Automatic Ct		Automatic			Automatic	0.035079543													
+268	Exp2_LineOfInterest_IgG	PosCtrlRegion	SYBR	Unknown	Undetermined									Automatic Ct		Automatic			Automatic	0.035079543						true			true				
+269	Exp2_LineOfInterest_IgG	PosCtrlRegion	SYBR	Unknown	Undetermined									Automatic Ct		Automatic			Automatic	0.035079543						true			true				
+270	Exp2_LineOfInterest_IgG	PosCtrlRegion	SYBR	Unknown	Undetermined									Automatic Ct		Automatic			Automatic	0.035079543						true			true				
+187	Exp2_LineOfInterest_Input_0.008	PosCtrlRegion	SYBR	Unknown	32.677208						32.677208	32.776134	0.3305184	Automatic Ct		Automatic			Automatic	0.035079543													
+188	Exp2_LineOfInterest_Input_0.008	PosCtrlRegion	SYBR	Unknown	32.50638						32.677208	32.776134	0.3305184	Automatic Ct		Automatic			Automatic	0.035079543													
+189	Exp2_LineOfInterest_Input_0.008	PosCtrlRegion	SYBR	Unknown	33.14482						32.677208	32.776134	0.3305184	Automatic Ct		Automatic			Automatic	0.035079543													
+163	Exp2_LineOfInterest_Input_0.040	PosCtrlRegion	SYBR	Unknown	30.371527						30.407242	30.472277	0.14468235	Automatic Ct		Automatic			Automatic	0.035079543													
+164	Exp2_LineOfInterest_Input_0.040	PosCtrlRegion	SYBR	Unknown	30.407242						30.407242	30.472277	0.14468235	Automatic Ct		Automatic			Automatic	0.035079543													
+165	Exp2_LineOfInterest_Input_0.040	PosCtrlRegion	SYBR	Unknown	30.638065						30.407242	30.472277	0.14468235	Automatic Ct		Automatic			Automatic	0.035079543													
+139	Exp2_LineOfInterest_Input_0.200	PosCtrlRegion	SYBR	Unknown	27.917124						27.917124	27.966898	0.17973736	Automatic Ct		Automatic			Automatic	0.035079543													
+140	Exp2_LineOfInterest_Input_0.200	PosCtrlRegion	SYBR	Unknown	27.817293						27.917124	27.966898	0.17973736	Automatic Ct		Automatic			Automatic	0.035079543													
+141	Exp2_LineOfInterest_Input_0.200	PosCtrlRegion	SYBR	Unknown	28.166277						27.917124	27.966898	0.17973736	Automatic Ct		Automatic			Automatic	0.035079543													
+115	Exp2_LineOfInterest_Input_1.000	PosCtrlRegion	SYBR	Unknown	25.521416						25.521416	25.548647	0.088151306	Automatic Ct		Automatic			Automatic	0.035079543													
+116	Exp2_LineOfInterest_Input_1.000	PosCtrlRegion	SYBR	Unknown	25.477325						25.521416	25.548647	0.088151306	Automatic Ct		Automatic			Automatic	0.035079543													
+117	Exp2_LineOfInterest_Input_1.000	PosCtrlRegion	SYBR	Unknown	25.647202						25.521416	25.548647	0.088151306	Automatic Ct		Automatic			Automatic	0.035079543													
+4	Exp1_CtrlLine_FavTF	PosCtrlRegion	SYBR	Unknown	25.709538						25.747635	25.741167	0.028943662	Automatic Ct		Automatic			Automatic	0.035079543													
+5	Exp1_CtrlLine_FavTF	PosCtrlRegion	SYBR	Unknown	25.76633						25.747635	25.741167	0.028943662	Automatic Ct		Automatic			Automatic	0.035079543													
+6	Exp1_CtrlLine_FavTF	PosCtrlRegion	SYBR	Unknown	25.747635						25.747635	25.741167	0.028943662	Automatic Ct		Automatic			Automatic	0.035079543													
+28	Exp1_CtrlLine_IgG	PosCtrlRegion	SYBR	Unknown	29.304363						29.230526	29.217875	0.093460925	Automatic Ct		Automatic			Automatic	0.035079543													
+29	Exp1_CtrlLine_IgG	PosCtrlRegion	SYBR	Unknown	29.230526						29.230526	29.217875	0.093460925	Automatic Ct		Automatic			Automatic	0.035079543													
+30	Exp1_CtrlLine_IgG	PosCtrlRegion	SYBR	Unknown	29.11873						29.230526	29.217875	0.093460925	Automatic Ct		Automatic			Automatic	0.035079543													
+364	Exp1_CtrlLine_Input_0.008	PosCtrlRegion	SYBR	Unknown	30.31009						30.315977	30.378794	0.11394096	Automatic Ct		Automatic			Automatic	0.035079543													
+365	Exp1_CtrlLine_Input_0.008	PosCtrlRegion	SYBR	Unknown	30.315977						30.315977	30.378794	0.11394096	Automatic Ct		Automatic			Automatic	0.035079543													
+366	Exp1_CtrlLine_Input_0.008	PosCtrlRegion	SYBR	Unknown	30.510319						30.315977	30.378794	0.11394096	Automatic Ct		Automatic			Automatic	0.035079543													
+340	Exp1_CtrlLine_Input_0.040	PosCtrlRegion	SYBR	Unknown	27.675669						27.616371	27.594885	0.09339828	Automatic Ct		Automatic			Automatic	0.035079543													
+341	Exp1_CtrlLine_Input_0.040	PosCtrlRegion	SYBR	Unknown	27.616371						27.616371	27.594885	0.09339828	Automatic Ct		Automatic			Automatic	0.035079543													
+342	Exp1_CtrlLine_Input_0.040	PosCtrlRegion	SYBR	Unknown	27.492617						27.616371	27.594885	0.09339828	Automatic Ct		Automatic			Automatic	0.035079543													
+316	Exp1_CtrlLine_Input_0.200	PosCtrlRegion	SYBR	Unknown	24.904064						24.904064	24.801765	0.1926476	Automatic Ct		Automatic			Automatic	0.035079543													
+317	Exp1_CtrlLine_Input_0.200	PosCtrlRegion	SYBR	Unknown	24.921684						24.904064	24.801765	0.1926476	Automatic Ct		Automatic			Automatic	0.035079543													
+318	Exp1_CtrlLine_Input_0.200	PosCtrlRegion	SYBR	Unknown	24.579548						24.904064	24.801765	0.1926476	Automatic Ct		Automatic			Automatic	0.035079543													
+292	Exp1_CtrlLine_Input_1.000	PosCtrlRegion	SYBR	Unknown	22.9993						22.983898	22.954903	0.06402272	Automatic Ct		Automatic			Automatic	0.035079543													
+293	Exp1_CtrlLine_Input_1.000	PosCtrlRegion	SYBR	Unknown	22.881514						22.983898	22.954903	0.06402272	Automatic Ct		Automatic			Automatic	0.035079543													
+294	Exp1_CtrlLine_Input_1.000	PosCtrlRegion	SYBR	Unknown	22.983898						22.983898	22.954903	0.06402272	Automatic Ct		Automatic			Automatic	0.035079543													
+100	Exp1_LineOfInterest_FavTF	PosCtrlRegion	SYBR	Unknown	26.347218						26.361006	26.413727	0.10348304	Automatic Ct		Automatic			Automatic	0.035079543													
+101	Exp1_LineOfInterest_FavTF	PosCtrlRegion	SYBR	Unknown	26.532951						26.361006	26.413727	0.10348304	Automatic Ct		Automatic			Automatic	0.035079543													
+102	Exp1_LineOfInterest_FavTF	PosCtrlRegion	SYBR	Unknown	26.361006						26.361006	26.413727	0.10348304	Automatic Ct		Automatic			Automatic	0.035079543													
+124	Exp1_LineOfInterest_IgG	PosCtrlRegion	SYBR	Unknown	32.119663						32.119663	32.30714	0.7840474	Automatic Ct		Automatic			Automatic	0.035079543													
+125	Exp1_LineOfInterest_IgG	PosCtrlRegion	SYBR	Unknown	31.633825						32.119663	32.30714	0.7840474	Automatic Ct		Automatic			Automatic	0.035079543													
+126	Exp1_LineOfInterest_IgG	PosCtrlRegion	SYBR	Unknown	33.16793						32.119663	32.30714	0.7840474	Automatic Ct		Automatic			Automatic	0.035079543													
+181	Exp1_LineOfInterest_Input_0.008	PosCtrlRegion	SYBR	Unknown	30.847689						30.872862	31.337244	0.8262333	Automatic Ct		Automatic			Automatic	0.035079543													
+182	Exp1_LineOfInterest_Input_0.008	PosCtrlRegion	SYBR	Unknown	32.291187						30.872862	31.337244	0.8262333	Automatic Ct		Automatic			Automatic	0.035079543													
+183	Exp1_LineOfInterest_Input_0.008	PosCtrlRegion	SYBR	Unknown	30.872862						30.872862	31.337244	0.8262333	Automatic Ct		Automatic			Automatic	0.035079543													
+157	Exp1_LineOfInterest_Input_0.040	PosCtrlRegion	SYBR	Unknown	28.820406						29.08764	29.016466	0.17190449	Automatic Ct		Automatic			Automatic	0.035079543													
+158	Exp1_LineOfInterest_Input_0.040	PosCtrlRegion	SYBR	Unknown	29.08764						29.08764	29.016466	0.17190449	Automatic Ct		Automatic			Automatic	0.035079543													
+159	Exp1_LineOfInterest_Input_0.040	PosCtrlRegion	SYBR	Unknown	29.141354						29.08764	29.016466	0.17190449	Automatic Ct		Automatic			Automatic	0.035079543													
+133	Exp1_LineOfInterest_Input_0.200	PosCtrlRegion	SYBR	Unknown	26.148294						26.148294	26.308891	0.37306586	Automatic Ct		Automatic			Automatic	0.035079543													
+134	Exp1_LineOfInterest_Input_0.200	PosCtrlRegion	SYBR	Unknown	26.043018						26.148294	26.308891	0.37306586	Automatic Ct		Automatic			Automatic	0.035079543													
+135	Exp1_LineOfInterest_Input_0.200	PosCtrlRegion	SYBR	Unknown	26.735361						26.148294	26.308891	0.37306586	Automatic Ct		Automatic			Automatic	0.035079543													
+109	Exp1_LineOfInterest_Input_1.000	PosCtrlRegion	SYBR	Unknown	24.208845						23.997538	24.03173	0.1627365	Automatic Ct		Automatic			Automatic	0.035079543													
+110	Exp1_LineOfInterest_Input_1.000	PosCtrlRegion	SYBR	Unknown	23.888805						23.997538	24.03173	0.1627365	Automatic Ct		Automatic			Automatic	0.035079543													
+111	Exp1_LineOfInterest_Input_1.000	PosCtrlRegion	SYBR	Unknown	23.997538						23.997538	24.03173	0.1627365	Automatic Ct		Automatic			Automatic	0.035079543													
+286	Water	PosCtrlRegion	SYBR	Unknown	Undetermined									Automatic Ct		Automatic			Automatic	0.035079543						true			true				
+287	Water	PosCtrlRegion	SYBR	Unknown	Undetermined									Automatic Ct		Automatic			Automatic	0.035079543						true			true				
+288	Water	PosCtrlRegion	SYBR	Unknown	Undetermined									Automatic Ct		Automatic			Automatic	0.035079543						true			true				
+151	Exp2_CtrlLine_FavTF	FavTFBS	SYBR	Unknown	30.84006						30.84006	31.091553	0.43772098	Automatic Ct		Automatic			Automatic	0.040976737													
+152	Exp2_CtrlLine_FavTF	FavTFBS	SYBR	Unknown	31.596987						30.84006	31.091553	0.43772098	Automatic Ct		Automatic			Automatic	0.040976737													
+153	Exp2_CtrlLine_FavTF	FavTFBS	SYBR	Unknown	30.83761						30.84006	31.091553	0.43772098	Automatic Ct		Automatic			Automatic	0.040976737													
+175	Exp2_CtrlLine_IgG	FavTFBS	SYBR	Unknown	33.528183						33.528183	33.12261	1.1018164	Automatic Ct		Automatic			Automatic	0.040976737						true							
+176	Exp2_CtrlLine_IgG	FavTFBS	SYBR	Unknown	33.964157						33.528183	33.12261	1.1018164	Automatic Ct		Automatic			Automatic	0.040976737						true							
+177	Exp2_CtrlLine_IgG	FavTFBS	SYBR	Unknown	31.87549						33.528183	33.12261	1.1018164	Automatic Ct		Automatic			Automatic	0.040976737						true							
+280	Exp2_CtrlLine_Input_0.008	FavTFBS	SYBR	Unknown	27.027023						27.027023	27.037888	0.11712831	Automatic Ct		Automatic			Automatic	0.040976737													
+281	Exp2_CtrlLine_Input_0.008	FavTFBS	SYBR	Unknown	27.16007						27.027023	27.037888	0.11712831	Automatic Ct		Automatic			Automatic	0.040976737													
+282	Exp2_CtrlLine_Input_0.008	FavTFBS	SYBR	Unknown	26.92657						27.027023	27.037888	0.11712831	Automatic Ct		Automatic			Automatic	0.040976737													
+256	Exp2_CtrlLine_Input_0.040	FavTFBS	SYBR	Unknown	24.836927						24.836927	24.887987	0.3407719	Automatic Ct		Automatic			Automatic	0.040976737													
+257	Exp2_CtrlLine_Input_0.040	FavTFBS	SYBR	Unknown	24.575628						24.836927	24.887987	0.3407719	Automatic Ct		Automatic			Automatic	0.040976737													
+258	Exp2_CtrlLine_Input_0.040	FavTFBS	SYBR	Unknown	25.25141						24.836927	24.887987	0.3407719	Automatic Ct		Automatic			Automatic	0.040976737													
+232	Exp2_CtrlLine_Input_0.200	FavTFBS	SYBR	Unknown	22.461056						22.527332	22.518778	0.053955883	Automatic Ct		Automatic			Automatic	0.040976737													
+233	Exp2_CtrlLine_Input_0.200	FavTFBS	SYBR	Unknown	22.567945						22.527332	22.518778	0.053955883	Automatic Ct		Automatic			Automatic	0.040976737													
+234	Exp2_CtrlLine_Input_0.200	FavTFBS	SYBR	Unknown	22.527332						22.527332	22.518778	0.053955883	Automatic Ct		Automatic			Automatic	0.040976737													
+208	Exp2_CtrlLine_Input_1.000	FavTFBS	SYBR	Unknown	21.364222						21.424685	21.47209	0.13782501	Automatic Ct		Automatic			Automatic	0.040976737													
+209	Exp2_CtrlLine_Input_1.000	FavTFBS	SYBR	Unknown	21.62736						21.424685	21.47209	0.13782501	Automatic Ct		Automatic			Automatic	0.040976737													
+210	Exp2_CtrlLine_Input_1.000	FavTFBS	SYBR	Unknown	21.424685						21.424685	21.47209	0.13782501	Automatic Ct		Automatic			Automatic	0.040976737													
+247	Exp2_LineOfInterest_FavTF	FavTFBS	SYBR	Unknown	27.082754						27.082754	26.966745	0.20368898	Automatic Ct		Automatic			Automatic	0.040976737													
+248	Exp2_LineOfInterest_FavTF	FavTFBS	SYBR	Unknown	26.731554						27.082754	26.966745	0.20368898	Automatic Ct		Automatic			Automatic	0.040976737													
+249	Exp2_LineOfInterest_FavTF	FavTFBS	SYBR	Unknown	27.085932						27.082754	26.966745	0.20368898	Automatic Ct		Automatic			Automatic	0.040976737													
+271	Exp2_LineOfInterest_IgG	FavTFBS	SYBR	Unknown	Undetermined									Automatic Ct		Automatic			Automatic	0.040976737						true			true				
+272	Exp2_LineOfInterest_IgG	FavTFBS	SYBR	Unknown	Undetermined									Automatic Ct		Automatic			Automatic	0.040976737						true			true				
+273	Exp2_LineOfInterest_IgG	FavTFBS	SYBR	Unknown	Undetermined									Automatic Ct		Automatic			Automatic	0.040976737						true			true				
+283	Exp2_LineOfInterest_Input_0.008	FavTFBS	SYBR	Unknown	27.776762						27.930038	27.90911	0.12322107	Automatic Ct		Automatic			Automatic	0.040976737													
+284	Exp2_LineOfInterest_Input_0.008	FavTFBS	SYBR	Unknown	27.930038						27.930038	27.90911	0.12322107	Automatic Ct		Automatic			Automatic	0.040976737													
+285	Exp2_LineOfInterest_Input_0.008	FavTFBS	SYBR	Unknown	28.020523						27.930038	27.90911	0.12322107	Automatic Ct		Automatic			Automatic	0.040976737													
+259	Exp2_LineOfInterest_Input_0.040	FavTFBS	SYBR	Unknown	25.57365						25.604357	25.613108	0.044486202	Automatic Ct		Automatic			Automatic	0.040976737													
+260	Exp2_LineOfInterest_Input_0.040	FavTFBS	SYBR	Unknown	25.604357						25.604357	25.613108	0.044486202	Automatic Ct		Automatic			Automatic	0.040976737													
+261	Exp2_LineOfInterest_Input_0.040	FavTFBS	SYBR	Unknown	25.661322						25.604357	25.613108	0.044486202	Automatic Ct		Automatic			Automatic	0.040976737													
+235	Exp2_LineOfInterest_Input_0.200	FavTFBS	SYBR	Unknown	23.243584						23.320162	23.416723	0.2366855	Automatic Ct		Automatic			Automatic	0.040976737													
+236	Exp2_LineOfInterest_Input_0.200	FavTFBS	SYBR	Unknown	23.686424						23.320162	23.416723	0.2366855	Automatic Ct		Automatic			Automatic	0.040976737													
+237	Exp2_LineOfInterest_Input_0.200	FavTFBS	SYBR	Unknown	23.320162						23.320162	23.416723	0.2366855	Automatic Ct		Automatic			Automatic	0.040976737													
+211	Exp2_LineOfInterest_Input_1.000	FavTFBS	SYBR	Unknown	21.653845						21.653845	21.683733	0.092928454	Automatic Ct		Automatic			Automatic	0.040976737													
+212	Exp2_LineOfInterest_Input_1.000	FavTFBS	SYBR	Unknown	21.609428						21.653845	21.683733	0.092928454	Automatic Ct		Automatic			Automatic	0.040976737													
+213	Exp2_LineOfInterest_Input_1.000	FavTFBS	SYBR	Unknown	21.78793						21.653845	21.683733	0.092928454	Automatic Ct		Automatic			Automatic	0.040976737													
+7	Exp1_CtrlLine_FavTF	FavTFBS	SYBR	Unknown	22.912437						22.912437	22.971788	0.4042496	Automatic Ct		Automatic			Automatic	0.040976737													
+8	Exp1_CtrlLine_FavTF	FavTFBS	SYBR	Unknown	22.600496						22.912437	22.971788	0.4042496	Automatic Ct		Automatic			Automatic	0.040976737													
+9	Exp1_CtrlLine_FavTF	FavTFBS	SYBR	Unknown	23.402433						22.912437	22.971788	0.4042496	Automatic Ct		Automatic			Automatic	0.040976737													
+31	Exp1_CtrlLine_IgG	FavTFBS	SYBR	Unknown	24.504847						24.55823	24.563585	0.061591525	Automatic Ct		Automatic			Automatic	0.040976737													
+32	Exp1_CtrlLine_IgG	FavTFBS	SYBR	Unknown	24.55823						24.55823	24.563585	0.061591525	Automatic Ct		Automatic			Automatic	0.040976737													
+33	Exp1_CtrlLine_IgG	FavTFBS	SYBR	Unknown	24.62768						24.55823	24.563585	0.061591525	Automatic Ct		Automatic			Automatic	0.040976737													
+367	Exp1_CtrlLine_Input_0.008	FavTFBS	SYBR	Unknown	25.53124						25.636835	25.619417	0.080886744	Automatic Ct		Automatic			Automatic	0.040976737													
+368	Exp1_CtrlLine_Input_0.008	FavTFBS	SYBR	Unknown	25.690176						25.636835	25.619417	0.080886744	Automatic Ct		Automatic			Automatic	0.040976737													
+369	Exp1_CtrlLine_Input_0.008	FavTFBS	SYBR	Unknown	25.636835						25.636835	25.619417	0.080886744	Automatic Ct		Automatic			Automatic	0.040976737													
+343	Exp1_CtrlLine_Input_0.040	FavTFBS	SYBR	Unknown	23.290976						23.290976	23.315565	0.04867075	Automatic Ct		Automatic			Automatic	0.040976737													
+344	Exp1_CtrlLine_Input_0.040	FavTFBS	SYBR	Unknown	23.371624						23.290976	23.315565	0.04867075	Automatic Ct		Automatic			Automatic	0.040976737													
+345	Exp1_CtrlLine_Input_0.040	FavTFBS	SYBR	Unknown	23.284094						23.290976	23.315565	0.04867075	Automatic Ct		Automatic			Automatic	0.040976737													
+319	Exp1_CtrlLine_Input_0.200	FavTFBS	SYBR	Unknown	20.981297						21.100023	21.114878	0.14159396	Automatic Ct		Automatic			Automatic	0.040976737													
+320	Exp1_CtrlLine_Input_0.200	FavTFBS	SYBR	Unknown	21.263313						21.100023	21.114878	0.14159396	Automatic Ct		Automatic			Automatic	0.040976737													
+321	Exp1_CtrlLine_Input_0.200	FavTFBS	SYBR	Unknown	21.100023						21.100023	21.114878	0.14159396	Automatic Ct		Automatic			Automatic	0.040976737													
+295	Exp1_CtrlLine_Input_1.000	FavTFBS	SYBR	Unknown	19.712234						19.712234	19.76713	0.12576203	Automatic Ct		Automatic			Automatic	0.040976737													
+296	Exp1_CtrlLine_Input_1.000	FavTFBS	SYBR	Unknown	19.911007						19.712234	19.76713	0.12576203	Automatic Ct		Automatic			Automatic	0.040976737													
+297	Exp1_CtrlLine_Input_1.000	FavTFBS	SYBR	Unknown	19.678146						19.712234	19.76713	0.12576203	Automatic Ct		Automatic			Automatic	0.040976737													
+103	Exp1_LineOfInterest_FavTF	FavTFBS	SYBR	Unknown	21.005709						21.005709	21.037512	0.18899213	Automatic Ct		Automatic			Automatic	0.040976737													
+104	Exp1_LineOfInterest_FavTF	FavTFBS	SYBR	Unknown	20.866438						21.005709	21.037512	0.18899213	Automatic Ct		Automatic			Automatic	0.040976737													
+105	Exp1_LineOfInterest_FavTF	FavTFBS	SYBR	Unknown	21.240387						21.005709	21.037512	0.18899213	Automatic Ct		Automatic			Automatic	0.040976737													
+127	Exp1_LineOfInterest_IgG	FavTFBS	SYBR	Unknown	27.741726						27.741726	27.665375	0.18028201	Automatic Ct		Automatic			Automatic	0.040976737													
+128	Exp1_LineOfInterest_IgG	FavTFBS	SYBR	Unknown	27.459482						27.741726	27.665375	0.18028201	Automatic Ct		Automatic			Automatic	0.040976737													
+129	Exp1_LineOfInterest_IgG	FavTFBS	SYBR	Unknown	27.79492						27.741726	27.665375	0.18028201	Automatic Ct		Automatic			Automatic	0.040976737													
+184	Exp1_LineOfInterest_Input_0.008	FavTFBS	SYBR	Unknown	26.92012						26.96117	27.014969	0.13035615	Automatic Ct		Automatic			Automatic	0.040976737													
+185	Exp1_LineOfInterest_Input_0.008	FavTFBS	SYBR	Unknown	26.96117						26.96117	27.014969	0.13035615	Automatic Ct		Automatic			Automatic	0.040976737													
+186	Exp1_LineOfInterest_Input_0.008	FavTFBS	SYBR	Unknown	27.163612						26.96117	27.014969	0.13035615	Automatic Ct		Automatic			Automatic	0.040976737													
+160	Exp1_LineOfInterest_Input_0.040	FavTFBS	SYBR	Unknown	24.541548						24.541548	24.492699	0.120938666	Automatic Ct		Automatic			Automatic	0.040976737													
+161	Exp1_LineOfInterest_Input_0.040	FavTFBS	SYBR	Unknown	24.354977						24.541548	24.492699	0.120938666	Automatic Ct		Automatic			Automatic	0.040976737													
+162	Exp1_LineOfInterest_Input_0.040	FavTFBS	SYBR	Unknown	24.581573						24.541548	24.492699	0.120938666	Automatic Ct		Automatic			Automatic	0.040976737													
+136	Exp1_LineOfInterest_Input_0.200	FavTFBS	SYBR	Unknown	22.471594						22.471594	22.425508	0.10482965	Automatic Ct		Automatic			Automatic	0.040976737													
+137	Exp1_LineOfInterest_Input_0.200	FavTFBS	SYBR	Unknown	22.305532						22.471594	22.425508	0.10482965	Automatic Ct		Automatic			Automatic	0.040976737													
+138	Exp1_LineOfInterest_Input_0.200	FavTFBS	SYBR	Unknown	22.499403						22.471594	22.425508	0.10482965	Automatic Ct		Automatic			Automatic	0.040976737													
+112	Exp1_LineOfInterest_Input_1.000	FavTFBS	SYBR	Unknown	20.586397						20.634676	20.622755	0.03210199	Automatic Ct		Automatic			Automatic	0.040976737													
+113	Exp1_LineOfInterest_Input_1.000	FavTFBS	SYBR	Unknown	20.634676						20.634676	20.622755	0.03210199	Automatic Ct		Automatic			Automatic	0.040976737													
+114	Exp1_LineOfInterest_Input_1.000	FavTFBS	SYBR	Unknown	20.64719						20.634676	20.622755	0.03210199	Automatic Ct		Automatic			Automatic	0.040976737													
+190	Water	FavTFBS	SYBR	Unknown	Undetermined									Automatic Ct		Automatic			Automatic	0.040976737						true			true				
+191	Water	FavTFBS	SYBR	Unknown	Undetermined									Automatic Ct		Automatic			Automatic	0.040976737						true			true				
+192	Water	FavTFBS	SYBR	Unknown	Undetermined									Automatic Ct		Automatic			Automatic	0.040976737						true			true				
